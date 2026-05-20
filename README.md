@@ -10,4 +10,4 @@ Trabalho para entrega "Padrão Visitor" da disciplina de "Arquitetura e Projeto 
 ---
 ## Diagrama
 
-![Diagrama UML Memento](diagrama_visitor.png)
+(Sem diagrama)
